@@ -1,1 +1,1 @@
-# console based product management system
+# Market Price Analysis Console Tool
